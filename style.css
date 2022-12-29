@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient( rgb(255, 212, 133) 20%, rgb(168, 0, 36) 100%);
+    background-position: center;
+}
+
+#text
+{
+    font-weight: bolder;
+    color: rgb(131, 0, 22);
+    border: 5px dashed rgb(0, 0, 97);
+}
+
+#bed
+{
+    border-radius: 20px;
+    width: 500px;
+}
+#tv
+{
+    border-radius: 20px;
+    width: 500px;
+}
+#desk
+{
+    border-radius: 20px;
+    width: 500px;
+}
+#bottle
+{
+    border-radius: 20px;
+    width: 500px;
+}
+#basket
+{
+    border-radius: 20px;
+    width: 500px;
+}
